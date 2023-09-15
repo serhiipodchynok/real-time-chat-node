@@ -47,3 +47,31 @@ Start the Client
   cd frontend
   npm start
 ```
+
+  
+# Features
+
+https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/mainscreen.PNG
+
+### Authenticaton
+![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/login.PNG)
+![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/signup.PNG)
+### Real Time Chatting with Typing indicators
+![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/real-time.PNG)
+### One to One chat
+![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/mainscreen.PNG)
+### Search Users
+![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/search.PNG)
+### Create Group Chats
+![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/new%20grp.PNG)
+### Notifications 
+![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/group%20%2B%20notif.PNG)
+### Add or Remove users from group
+![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/add%20rem.PNG)
+### View Other user Profile
+![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/profile.PNG)
+## Made By
+
+- [@Piyush-eon](https://github.com/piyush-eon)
+
+  
