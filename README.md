@@ -70,8 +70,3 @@ https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/mai
 ![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
 ![](https://github.com/serhiipodchynok/real-time-chat-node/blob/main/screenshots/profile.PNG)
-## Made By
-
-- [@Piyush-eon](https://github.com/piyush-eon)
-
-  
